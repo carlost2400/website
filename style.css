@@ -1,0 +1,13 @@
+body{background-color: #FF5533;}
+h1{color: #000000;
+font-family: Papyrus;
+font-size:  40px;}
+p{color:#000000;
+font-family: monospace;
+font-size: 15px;}
+a{color: black;
+font-family: monospace;
+font-size: 18px;
+text-decoration: none;}
+a:hover{color: #8C570F;}
+ul{list-style-type: none;}
